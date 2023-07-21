@@ -46,7 +46,7 @@ The program uses the fitted model to predict the salary for an employee with 12 
 2. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/simple-linear-regression.git
+git clone https://github.com/wasim-jussab/simple-linear-regression.git
 ```
 
 3. Change to the project directory:
